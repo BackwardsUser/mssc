@@ -6,7 +6,7 @@ This is the first command-line tool I've ever created.
 ## Requirements
 
 Python 3.11.3 - Must be in the PATH environment variable.
-<script src="https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7.js"></script>
+Click [Here](https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7) for the installation process.
 
 ## How to use
 
