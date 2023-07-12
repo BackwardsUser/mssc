@@ -19,8 +19,8 @@ parser = argparse.ArgumentParser(description="Block Quantity to Stack Numbers")
 parser.add_argument('num', help="Number of Items needed for project.")
 
 num = int(parser.parse_args().num, base=10)
-
 stacksRaw = stackSize(num)
+
 stacks = math.floor(stacksRaw)
 items = math.floor(getFinalStackSize(getDecimal(stacksRaw)))
 stackPlural = "s" if stacks > 1 else ""
